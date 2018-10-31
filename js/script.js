@@ -1,4 +1,4 @@
-var Programmer = {
+const Programmer = {
     name: "James Priest",
     email: "james-priest@outlook.com",
     DOB: "7/16/1970",
